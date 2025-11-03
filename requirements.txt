@@ -1,0 +1,16 @@
+# Twitter/X API
+tweepy==4.14.0
+
+# Anthropic Claude API
+anthropic==0.34.0
+
+# Data & Visualization
+pandas==2.1.4
+matplotlib==3.8.2
+requests==2.31.0
+
+# Environment variables
+python-dotenv==1.0.0
+
+# Scheduling (för lokal körning)
+schedule==1.2.1
